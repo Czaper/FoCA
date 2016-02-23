@@ -11,7 +11,6 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="FoCA.vi" Type="VI" URL="../FoCA.vi"/>
-		<Item Name="forward.ctl" Type="VI" URL="../forward.ctl"/>
 		<Item Name="open_curves.vi" Type="VI" URL="../open_curves.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
