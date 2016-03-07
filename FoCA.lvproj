@@ -17,6 +17,7 @@
 				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
+				<Item Name="compatOverwrite.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatOverwrite.vi"/>
 				<Item Name="compatReadText.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatReadText.vi"/>
 				<Item Name="Convert property node font to graphics font.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Convert property node font to graphics font.vi"/>
 				<Item Name="Details Display Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Details Display Dialog.vi"/>
@@ -64,9 +65,11 @@
 			<Item Name="dot2coma.vi" Type="VI" URL="../dot2coma.vi"/>
 			<Item Name="extract ending.vi" Type="VI" URL="../extract ending.vi"/>
 			<Item Name="FC_fitting.vi" Type="VI" URL="../FC_fitting.vi"/>
+			<Item Name="GetControlsAndIndicatorNames.vi" Type="VI" URL="../GetControlsAndIndicatorNames.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="open_curves.vi" Type="VI" URL="../open_curves.vi"/>
 			<Item Name="read_curve_properties.vi" Type="VI" URL="../read_curve_properties.vi"/>
+			<Item Name="SaveLoadControlValues.vi" Type="VI" URL="../SaveLoadControlValues.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
