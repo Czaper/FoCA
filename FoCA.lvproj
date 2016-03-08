@@ -62,6 +62,7 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="agilent_to_FC.vi" Type="VI" URL="../agilent_to_FC.vi"/>
 			<Item Name="dot2coma.vi" Type="VI" URL="../dot2coma.vi"/>
 			<Item Name="extract ending.vi" Type="VI" URL="../extract ending.vi"/>
 			<Item Name="FC_fitting.vi" Type="VI" URL="../FC_fitting.vi"/>
